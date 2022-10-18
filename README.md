@@ -1,3 +1,5 @@
+<p>Hi Watashi Kanna😘</p>
+
 <p align="center">
     <img src="https://telegra.ph/file/8231dc65f2538231ba239.jpg" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
 </p>
