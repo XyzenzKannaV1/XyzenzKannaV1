@@ -8,8 +8,20 @@
 
 <p align="center">
  <a href="#"><img title="Kanna Readme MD" src="https://img.shields.io/badge/Kanna Readme MD-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
----------
+</p>
+<p align="center">
+<a href="https://github.com/XyzenzKannaV1"><img title="Author" src="https://img.shields.io/badge/AUTHOR-Kanna-blue.svg?style=for-the-badge&logo=github"></a>
+</p>
+<a href="https://github.com/XyzenzKannaV1/Siesta-Botz/network/members"><img title="Forks" src="https://img.shields.io/github/forks/kannachann/KannaBOT-MD?label=Forks&color=blue&style=flat-square"></a>
+<a href="https://github.com/XyzenzKannaV1/Siesta-Botz/watchers"><img title="Watchers" src="https://img.shields.io/github/watchers/kannachann/KannaBOT-MD?label=Watchers&color=green&style=flat-square"></a>
+<a href="https://github.com/XyzenzKannaV1/Siesta-Botz/stargazers"><img title="Stars" src="https://img.shields.io/github/stars/kannachann/KannaBOT-MD?label=Stars&color=yellow&style=flat-square"></a>
+<a href="https://github.com/XyzenzKannaV1/Siesta-Botz/graphs/contributors"><img title="Contributors" src="https://img.shields.io/github/contributors/kannachann/KannaBOT-MD?label=Contributors&color=blue&style=flat-square"></a>
+<a href="https://github.com/XyzenzKannaV1/Siesta-Botz/issues"><img title="Issues" src="https://img.shields.io/github/issues/kannachann/KannaBOT-MD?label=Issues&color=success&style=flat-square"></a>
+<a href="https://github.com/XyzenzKannaV1/Siesta-Botz/issues?q=is%3Aissue+is%3Aclosed"><img title="Issues" src="https://img.shields.io/github/issues-closed/kannachann/KannaBOT-MD?label=Issues&color=red&style=flat-square"></a>
+<a href="https://github.com/XyzenzKannaV1/Siesta-Botz/pulls"><img title="Pull Request" src="https://img.shields.io/github/issues-pr/kannachann/KannaBOT-MD?label=PullRequest&color=success&style=flat-square"></a>
+<a href="https://github.com/XyzenzKannaV1/Siesta-Botz/pulls?q=is%3Apr+is%3Aclosed"><img title="Pull Request" src="https://img.shields.io/github/issues-pr-closed/kannachann/KannaBOT-MD?label=PullRequest&color=red&style=flat-square"></a>
 
+---------
 ## ```Connect With Me 📞``` <img src="https://github.com/siegrin/siegrin/blob/main/Assets/Handshake.gif" height="32px">
   <a href="https://wa.me/6288980870067">
     <img align="left" alt="SIEGRIN | Whastapp" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Whatsapp.svg" />
