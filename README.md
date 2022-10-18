@@ -42,3 +42,15 @@
 [![ONWER](https://img.shields.io/badge/Owner%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6288980870067) 
 [![GROUP OFFICIAL](https://img.shields.io/badge/WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/KbgGdT1cV3rD5JzJDZryis) 
 ---------
+
+  ### My statistic
+
+<p align="center">
+  <a href="panteg"><img src="https://github-readme-stats.vercel.app/api?username=XyzenzKannaV1&theme=tokyonight&show_icons=true" /></a>
+</p>  
+  
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=XyzenzKannaV1&label=VIEWS&style=flat-square&color=blue" />
+</p>
+    
+------
