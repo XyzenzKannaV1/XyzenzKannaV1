@@ -13,7 +13,7 @@
   <a href="https://github.com/">XyzenzKannaV1<img src="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=XyzenzKannaV1;Recode+By+Sabil;Give+star+and+forks+this+Repo+:D;Follow+My+Github" alt="UwU">
 </p>
 
-![My card name](https://cardivo.vercel.app/api?name=_©️x_Kanna_x🥀_&description=Hi,%20Welcome%20To%20My%20Profile%20😈&image=https://avatarfiles.alphacoders.com/108/thumb-108886.gif?v=4&s=10?v=4&backgroundColor=%23ecf0f1&instagram=x_Kanna_x&github=XyzenzKannaV1&twitter=&pattern=leaf&colorPattern=%23eaeaea)
+<img src="https://telegra.ph/file/8231dc65f2538231ba239.jpg" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
 
 <p align="center">
  <a href="#"><img title="Kanna Readme MD" src="https://img.shields.io/badge/Kanna Readme MD-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
