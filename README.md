@@ -6,15 +6,12 @@
             alt="Typing SVG"
 
 <p align="center">
-    
+    <img src="https://telegra.ph/file/8231dc65f2538231ba239.jpg" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
 </p>
 <h1 align="center">XyzenzKannaV1</h1>
 <p align="center">
   <a href="https://github.com/">XyzenzKannaV1<img src="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=XyzenzKannaV1;Recode+By+Sabil;Give+star+and+forks+this+Repo+:D;Follow+My+Github" alt="UwU">
 </p>
-
-<img src="https://telegra.ph/file/8231dc65f2538231ba239.jpg" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
-
 <p align="center">
  <a href="#"><img title="Kanna Readme MD" src="https://img.shields.io/badge/Kanna Readme MD-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
