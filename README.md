@@ -6,7 +6,7 @@
             alt="Typing SVG"
 
 <p align="center">
-    <img src="https://telegra.ph/file/8231dc65f2538231ba239.jpg" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
+    <img src="https://telegra.ph/file/74d946009d204c11beb6b.jpg" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
 </p>
 <h1 align="center">XyzenzKannaV1</h1>
 <p align="center">
