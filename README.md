@@ -20,37 +20,3 @@
 </p>
 
 ![My card name](https://cardivo.vercel.app/api?name=_©️x_Kanna_x🥀_&description=Hi,%20Welcome%20To%20My%20Profile%20😈&image=https://avatarfiles.alphacoders.com/108/thumb-108886.gif?v=4&s=10?v=4&backgroundColor=%23ecf0f1&instagram=x_Kanna_x&github=XyzenzKannaV1&twitter=&pattern=leaf&colorPattern=%23eaeaea)
-
----------
-## ```Connect With Me 📞``` <img src="https://github.com/siegrin/siegrin/blob/main/Assets/Handshake.gif" height="32px">
-  <a href="https://wa.me/6288980870067">
-    <img align="left" alt="SIEGRIN | Whastapp" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Whatsapp.svg" />
-  </a> &nbsp;&nbsp;
-  <a href="https://www.tiktok.com/@kannabotz">
-    <img align="left" alt="SIEGRIN | Titkok" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Tiktok.svg" />
-  </a> &nbsp;&nbsp;
-  <a href="https://www.instagram.com/kannabotz">
-    <img align="left" alt="SIEGRIN | Instagram" width="24px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Instagram.svg" />
-  </a> &nbsp;&nbsp;
-  <a href="mailto:kannabotzv1@gmail.com">
-    <img align="left" alt="SIEGRIN | Gmail" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Gmail.svg" />
-  </a> &nbsp;&nbsp;
----------
-
-## ```Whatsapp``` <a href="https://wa.me/6288980870067"> <img align="left" alt="SIEGRIN | Whastapp" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Whatsapp.svg" />
-[![BOT WHATSAPP](https://img.shields.io/badge/WhatsApp%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6283112831554) 
-[![ONWER](https://img.shields.io/badge/Owner%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6288980870067) 
-[![GROUP OFFICIAL](https://img.shields.io/badge/WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/KbgGdT1cV3rD5JzJDZryis) 
----------
-
-  ### My statistic
-
-<p align="center">
-  <a href="panteg"><img src="https://github-readme-stats.vercel.app/api?username=XyzenzKannaV1&theme=tokyonight&show_icons=true" /></a>
-</p>  
-  
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=XyzenzKannaV1&label=VIEWS&style=flat-square&color=blue" />
-</p>
-    
-------
